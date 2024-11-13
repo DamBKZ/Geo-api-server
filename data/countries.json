@@ -116,7 +116,7 @@
 			"temperature": 16
 		},
 		"localTime": "13:30",
-x		"monumentImage": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Brandenburger_Tor_nachts.jpg",
+		"monumentImage": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Brandenburger_Tor_nachts.jpg",
 		"timezone": "Europe/Berlin"
 	},
 	{
@@ -131,13 +131,13 @@ x		"monumentImage": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Branden
 			"temperature": -5
 		},
 		"localTime": "15:30",
-x		"monumentImage": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Red_Square_2023.jpg",
+		"monumentImage": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Red_Square_2023.jpg",
 		"timezone": "Europe/Moscow"
 	},
 	{
 		"id": 10,
 		"countryName": "China",
-x		"flag": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg",
 		"capital": "Beijing",
 		"population": 1402112000,
 		"currency": "Yuan Chinois",
@@ -146,7 +146,7 @@ x		"flag": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_Peop
 			"temperature": 22
 		},
 		"localTime": "20:30",
-x		"monumentImage": "https://upload.wikimedia.org/wikipedia/commons/7/75/20090529_Great_Wall_8216.jpg",
+		"monumentImage": "https://upload.wikimedia.org/wikipedia/commons/7/75/20090529_Great_Wall_8216.jpg",
 		"timezone": "Asia/Shanghai"
 	}
 ]

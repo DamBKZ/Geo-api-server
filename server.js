@@ -9,7 +9,7 @@ app.get("/api/countries", (req, res) => {
 });
 
 app.get("/api/countries/:id", (req, res) => {
-	const countryId = Number.parseInt(req.params.id, 10);
+	const countryId = +req.params.id;
 	const country = countries.find((c) => c.id === countryId);
 
 	if (country) {
