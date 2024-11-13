@@ -12,7 +12,8 @@
 		},
 		"localTime": "14:30",
 		"monumentImage": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Tour_Eiffel_Wikimedia_Commons.jpg",
-		"timezone": "Europe/Paris"
+		"timezone": "Europe/Paris",
+		"hint": "C'est le pays du camembert et des baguettes."
 	},
 	{
 		"id": 2,
@@ -27,7 +28,8 @@
 		},
 		"localTime": "21:30",
 		"monumentImage": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Mt._Fuji_from_Park_Hotel_Tokyo_%284457243468%29.jpg",
-		"timezone": "Asia/Tokyo"
+		"timezone": "Asia/Tokyo",
+		"hint": "C'est le pays des samouraïs."
 	},
 	{
 		"id": 3,
@@ -42,7 +44,8 @@
 		},
 		"localTime": "08:30",
 		"monumentImage": "https://upload.wikimedia.org/wikipedia/commons/a/af/WhiteHouseSouthFacade.JPG",
-		"timezone": "America/New_York"
+		"timezone": "America/New_York",
+		"hint": "C'est le pays qui a envoyé les premiers hommes sur la lune."
 	},
 	{
 		"id": 4,
@@ -57,7 +60,8 @@
 		},
 		"localTime": "10:30",
 		"monumentImage": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Christ_the_Redeemer_-_Cristo_Redentor.jpg",
-		"timezone": "America/Sao_Paulo"
+		"timezone": "America/Sao_Paulo",
+		"hint": "C'est le pays de la samba et du carnaval."
 	},
 	{
 		"id": 5,
@@ -72,7 +76,8 @@
 		},
 		"localTime": "23:30",
 		"monumentImage": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Sydney_Opera_House_-_Dec_2008.jpg",
-		"timezone": "Australia/Sydney"
+		"timezone": "Australia/Sydney",
+		"hint": "C'est le pays des kangourous et des koalas."
 	},
 	{
 		"id": 6,
@@ -87,7 +92,8 @@
 		},
 		"localTime": "14:30",
 		"monumentImage": "https://upload.wikimedia.org/wikipedia/commons/2/23/Table_Mountain%2C_Cape_Town%2C_South_Africa.jpg",
-		"timezone": "Africa/Johannesburg"
+		"timezone": "Africa/Johannesburg",
+		"hint": "C'est le pays de Nelson Mandela."
 	},
 	{
 		"id": 7,
@@ -102,7 +108,8 @@
 		},
 		"localTime": "19:00",
 		"monumentImage": "https://upload.wikimedia.org/wikipedia/commons/7/74/Taj_Mahal%2C_Agra%2C_India_edit2.jpg",
-		"timezone": "Asia/Kolkata"
+		"timezone": "Asia/Kolkata",
+		"hint": "Christophe Colomb pensait aller là-bas."
 	},
 	{
 		"id": 8,
@@ -117,7 +124,8 @@
 		},
 		"localTime": "13:30",
 		"monumentImage": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Brandenburger_Tor_nachts.jpg",
-		"timezone": "Europe/Berlin"
+		"timezone": "Europe/Berlin",
+		"hint": "Le compositeur Beethoven en est originaire."
 	},
 	{
 		"id": 9,
@@ -132,7 +140,8 @@
 		},
 		"localTime": "15:30",
 		"monumentImage": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Red_Square_2023.jpg",
-		"timezone": "Europe/Moscow"
+		"timezone": "Europe/Moscow",
+		"hint": "C'est le plus grand pays du monde."
 	},
 	{
 		"id": 10,
@@ -147,6 +156,7 @@
 		},
 		"localTime": "20:30",
 		"monumentImage": "https://upload.wikimedia.org/wikipedia/commons/7/75/20090529_Great_Wall_8216.jpg",
-		"timezone": "Asia/Shanghai"
+		"timezone": "Asia/Shanghai",
+		"hint": "C'est le pays des pandas."
 	}
 ]
